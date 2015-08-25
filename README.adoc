@@ -115,3 +115,6 @@ Spring Boot CLI provides a rapid way to create a back end server app. It also su
 favorite Javascript resources and HTML templates. You also could have staged CSS assets. Bottom line: you don't have to create a project file. Instead, you can dive quickly into building your application.
 
 
+
+include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+
